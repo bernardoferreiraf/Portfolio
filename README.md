@@ -4,7 +4,7 @@ Hi There. My name is Bernardo Ferreira F :) I'm a Junior Front-End Web Developer
 
 ## Getting Started
 
-You Can Find The Live Website Here [Bernardo Ferreira F's | Portfolio.](https://bernardoferreiraf.github.io/Portfolio)
+You Can Find The Live Website In [Bernardo Ferreira F's | Portfolio.](https://bernardoferreiraf.github.io/Portfolio)
 
 
 ## Running the tests
