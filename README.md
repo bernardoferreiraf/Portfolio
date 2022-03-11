@@ -1,25 +1,27 @@
-# <img src="./favicon.ico"> Product Landing Page
+# <img src="./favicon.ico"> Bernardo Ferreira F | Portfolio.
 
-Hi There. My name is Bernardo Ferreira F :) I'm a Junior Front-End Web Developer And [This Is a Product Landing Page](https://bernardoferreiraf.github.io/Product-Landing-Page)!
+Hi There. My name is Bernardo Ferreira F :) I'm a Junior Front-End Web Developer And [This Is My Portfolio](https://bernardoferreiraf.github.io/Portfolio)!
 
 ## Getting Started
 
-You Can Find The Live Website In [Product Landing Page](https://bernardoferreiraf.github.io/Product-Landing-Page)
+You Can Find The Live Website In [Bernardo Ferreira F | Portfolio.](https://bernardoferreiraf.github.io/Portfolio)
 
 
 ## Running the tests
 
-To Run The Product Landing Page [Click Here](https://bernardoferreiraf.github.io/Product-Landing-Page)
+To Run My Portfolio [Click Here](https://bernardoferreiraf.github.io/Portfolio)
 
 
 ## Built With
 
 * [HTML](https://www.w3schools.com/html/default.asp) - The standard markup language for Web pages.
 * [CSS](https://www.w3schools.com/css/default.asp) - The language we use to style an HTML document.
+* [BOOTSTRAP](https://www.w3schools.com/css/default.asp)
+* [JAVASCRIPT](https://www.w3schools.com/css/default.asp)
 
 ## Authors
 
-* **Bernardo Ferreira F** - *Web Devlopment (Design by FreeCodeCamp)* - [BernardoFerreiraF](https://github.com/bernardoferreiraf)
+* **Bernardo Ferreira F** - *All Work (Design And Devlopment)* - [BernardoFerreiraF](https://github.com/bernardoferreiraf)
 
 ## Support
 
