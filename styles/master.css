@@ -550,4 +550,8 @@ a:hover {
   .home .home-text strong {
     display: block;
   }
+  
+  .contact .contact-text #email {
+  width: 45%;
+  }
 }
