@@ -16,8 +16,8 @@ To Run My Portfolio [Click Here](https://bernardoferreiraf.github.io/Portfolio)
 
 * [HTML](https://www.w3schools.com/html/default.asp) - The standard markup language for Web pages.
 * [CSS](https://www.w3schools.com/css/default.asp) - The language we use to style an HTML document.
-* [BOOTSTRAP](https://www.w3schools.com/css/default.asp)
-* [JAVASCRIPT](https://www.w3schools.com/css/default.asp)
+* [BOOTSTRAP](https://www.w3schools.com/css/default.asp) - The most popular HTML, CSS, and JavaScript framework for developing responsive and mobile-first websites.
+* [JAVASCRIPT](https://www.w3schools.com/css/default.asp) - The programming language of the Web and the world's most popular programming language.
 
 ## Authors
 
