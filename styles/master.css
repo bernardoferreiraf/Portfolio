@@ -398,7 +398,7 @@ a:hover {
   border-radius: 5px;
   resize: none;
   color: var(--clr-primary);
-  background-color: transparent;
+  background-color: var(--bgclr-primary);
   border: 1px solid var(--clr-primary);
 }
 
